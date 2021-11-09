@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>img_login.jpg</file>
+    </qresource>
+</RCC>
